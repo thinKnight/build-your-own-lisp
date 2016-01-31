@@ -1,0 +1,2 @@
+1. install Editline
+sudo apt-get install libedit-dev
